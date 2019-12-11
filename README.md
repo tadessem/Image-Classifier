@@ -21,6 +21,7 @@ optional arguments to use predict.py in command line are the following:
 '--checkpoint', default = 'checkpoint.pth','checkpoint file as str'
 '--category_names',default = "cat_to_name.json",'Mapping of categories to real names. JSON file name to be provided
 '--gpu','option to use GPU'
+
     
 
 References:
